@@ -1,0 +1,22 @@
+{
+  "name": "among-us-tunnel",
+  "version": "1.0.0",
+  "description": "If you've tried playing Among Us with your friends, you probably know how frustrating it is - everyone in your group is spamming the \"Create Game\" button, and it's just not working, and when you finally do get a room, no one can connect, they just keep typing in the code over and over and over again and it doesn't want to work...",
+  "main": "among_us_tunnel.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenpizza1203/among-us-tunnel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenpizza1203/among-us-tunnel/issues"
+  },
+  "homepage": "https://github.com/greenpizza1203/among-us-tunnel#readme"
+}
