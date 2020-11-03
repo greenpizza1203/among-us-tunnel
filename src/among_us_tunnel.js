@@ -1,3 +1,4 @@
+#!/usr/bin/env ts-node-dev
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
@@ -38,7 +39,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var server_1 = require("./server");
 var client_1 = require("./client");
-var readline = require('readline');
+var readline = require("readline");
 //broadcaster.connect(47777, "255.255.255.255");
 // This is a solid block of shitcode, I know. So is among us, so it's fair anyways.
 /*

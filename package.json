@@ -2,12 +2,14 @@
   "name": "among-us-tunnel",
   "version": "1.0.0",
   "description": "If you've tried playing Among Us with your friends, you probably know how frustrating it is - everyone in your group is spamming the \"Create Game\" button, and it's just not working, and when you finally do get a room, no one can connect, they just keep typing in the code over and over and over again and it doesn't want to work...",
-  "dependencies": {},
-  "devDependencies": {},
-  "bin": {
-    "among-us-tunnel": "./src/among_us_tunnel.ts"
+  "dependencies": {
+    "@types/node": "^14.14.6",
+    "typescript": "^4.0.5"
   },
+  "devDependencies": {},
+  "main": "./src/among_us_tunnel.js",
   "scripts": {
+    "preinstall": "ts",
     "tunnel": "ts-node-dev src/among_us_tunnel.ts"
   },
   "repository": {

@@ -2,7 +2,7 @@
 import {be_server} from "./server";
 import {be_client} from "./client";
 
-import readline from "readline";
+import * as readline from "readline";
 //broadcaster.connect(47777, "255.255.255.255");
 
 // This is a solid block of shitcode, I know. So is among us, so it's fair anyways.
