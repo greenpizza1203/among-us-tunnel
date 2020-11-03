@@ -11,7 +11,8 @@
   "main": "./src/among_us_tunnel.js",
   "scripts": {
     "preinstall": "tsc",
-    "tunnel": "ts-node-dev src/among_us_tunnel.ts"
+    "tunnel": "ts-node-dev src/among_us_tunnel.ts",
+    "pkg": "pkg package.json --targets win,macos"
   },
   "bin": {
     "among-us-tunnel": "./src/among_us_tunnel.js"
