@@ -5,7 +5,7 @@
   "dependencies": {},
   "devDependencies": {},
   "bin": {
-    "among-us-tunnel": "tunnel"
+    "among-us-tunnel": "./src/among_us_tunnel.ts"
   },
   "scripts": {
     "tunnel": "ts-node-dev src/among_us_tunnel.ts"
