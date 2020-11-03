@@ -9,7 +9,6 @@ export function be_server(port) {
     server.bind(port);
     let server_ip: string = null;
 
-
     server.on('message', (msg, rinfo) => {
         if (msg[0] == 0) {
             let key = `${rinfo.address}:${rinfo.port}`;
