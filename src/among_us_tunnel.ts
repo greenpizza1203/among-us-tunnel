@@ -1,4 +1,4 @@
-#!/usr/bin/env ts-node-dev
+#!/usr/bin/env node
 import {be_server} from "./server";
 import {be_client} from "./client";
 
