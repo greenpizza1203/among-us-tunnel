@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="205f0c3e-3423-4742-970f-f0fa90d46535" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/among_us_tunnel-linux" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/among_us_tunnel-macos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/among_us_tunnel-win.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/among_us_tunnel.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +60,8 @@
       <updated>1601133447672</updated>
       <workItem from="1601133448911" duration="16770000" />
       <workItem from="1601224183183" duration="2076000" />
-      <workItem from="1601254425557" duration="1120000" />
+      <workItem from="1601254425557" duration="1468000" />
+      <workItem from="1601697053045" duration="21000" />
     </task>
     <servers />
   </component>
