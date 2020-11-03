@@ -63,7 +63,7 @@
       <workItem from="1601224183183" duration="2076000" />
       <workItem from="1601254425557" duration="1468000" />
       <workItem from="1601697053045" duration="21000" />
-      <workItem from="1604425228435" duration="1007000" />
+      <workItem from="1604425228435" duration="1376000" />
     </task>
     <servers />
   </component>
@@ -79,6 +79,8 @@
         <option value="$PROJECT_DIR$/src/server.js.map" />
         <option value="$PROJECT_DIR$/src/among_us_tunnel.js" />
         <option value="$PROJECT_DIR$/src/among_us_tunnel.js.map" />
+        <option value="$PROJECT_DIR$/src/test_client.js" />
+        <option value="$PROJECT_DIR$/src/test_client.js.map" />
       </list>
     </option>
   </component>
