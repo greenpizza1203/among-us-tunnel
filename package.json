@@ -9,7 +9,7 @@
   "devDependencies": {},
   "main": "./src/among_us_tunnel.js",
   "scripts": {
-    "preinstall": "ts",
+    "preinstall": "tsc",
     "tunnel": "ts-node-dev src/among_us_tunnel.ts"
   },
   "repository": {
