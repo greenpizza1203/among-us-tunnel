@@ -13,7 +13,7 @@
     "tunnel": "ts-node-dev src/among_us_tunnel.ts"
   },
   "bin": {
-    "among_us_tunnel": "./src/among_us_tunnel.js"
+    "among-us-tunnel": "./src/among_us_tunnel.js"
   },
   "repository": {
     "type": "git",
