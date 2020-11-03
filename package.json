@@ -12,6 +12,9 @@
     "preinstall": "tsc",
     "tunnel": "ts-node-dev src/among_us_tunnel.ts"
   },
+  "bin": {
+    "among_us_tunnel": "./src/among_us_tunnel.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/greenpizza1203/among-us-tunnel.git"
